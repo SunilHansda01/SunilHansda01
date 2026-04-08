@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello There! I am Sunil Hansda👋
+AI Backend Engineer | Python (FastAPI), Distributed Systems  
+Async workflows, APIs, microservices, AI integration  
+Cloud (AWS/GCP), Docker, CI/CD
 
 <!--
 **SunilHansda01/SunilHansda01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
